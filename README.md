@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Matt 👋
 
-<!--
-**mqttjames/mqttjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical Engineering student at the University of Doha for Science and Technology, passionate about **renewable energy**, **power systems**, and **technology that makes a difference**.
 
-Here are some ideas to get you started:
+I enjoy building things — whether it's a simple Python game or a sustainability-focused device using microcontrollers. I'm currently diving deeper into **machine learning**, especially its role in solving real-world energy challenges. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Projects I’m working on:
+- A water quality monitoring device using **Raspberry Pi Pico** and **date pits** 🌱
+- Participating in the **Shell.ai Hackathon** focused on fuel blend property prediction 🔬
+- Python practice projects like Hangman, data analysis exercises, and more
+
+📚 Currently learning:
+- Machine Learning and Data Analysis with Python
+- Energy systems and smart grids
+- Real-time data visualization and optimization tools
+
+🌍 My goal is to combine engineering, sustainability, and AI to help shape a cleaner, more efficient future.
+
+Let’s connect, collaborate, and build something meaningful.
+
+> “Even small sparks can light up big ideas.”
+
+🔗 You can also find me:
+- On LinkedIn: https://www.linkedin.com/in/matt-james-fortes-a430a8261
+- Competing in hackathons, speaking at youth events, or teaching others when I can!
