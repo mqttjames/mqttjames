@@ -18,7 +18,7 @@ I enjoy building things — whether it's a simple Python game or a sustainabilit
 
 Let’s connect, collaborate, and build something meaningful.
 
-> “Even small sparks can light up big ideas.”
+> “Do all things with purpose.”
 
 🔗 You can also find me:
 - On LinkedIn: https://www.linkedin.com/in/matt-james-fortes-a430a8261
