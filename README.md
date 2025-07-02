@@ -5,7 +5,7 @@ I'm an Electrical Engineering student at the University of Doha for Science and 
 I enjoy building things — whether it's a simple Python game or a sustainability-focused device using microcontrollers. I'm currently diving deeper into **machine learning**, especially its role in solving real-world energy challenges. 
 
 🛠️ Projects I’m working on:
-- A water quality monitoring device using **Raspberry Pi Pico** and **date pits** 🌱
+- A water quality monitoring device using **Raspberry Pi Pico** and **Date Pits** 🌱
 - Participating in the **Shell.ai Hackathon** focused on fuel blend property prediction 🔬
 - Python practice projects like Hangman, data analysis exercises, and more
 
