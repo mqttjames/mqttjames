@@ -2,7 +2,7 @@
 
 I'm an Electrical Engineering student at the University of Doha for Science and Technology, passionate about **renewable energy**, **power systems**, and **technology that makes a difference**.
 
-I enjoy building things — whether it's a simple Python game or a sustainability-focused device using microcontrollers. I'm currently diving deeper into **machine learning**, especially its role in solving real-world energy challenges. 
+I enjoy building things -- whether it's a simple Python game or a sustainability-focused device using microcontrollers. I'm currently diving deeper into **machine learning**, especially its role in solving real-world energy challenges. 
 
 🛠️ Projects I’m working on:
 - A water quality monitoring device using **Raspberry Pi Pico** and **Date Pits** 🌱
